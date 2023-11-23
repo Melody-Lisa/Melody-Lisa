@@ -1,3 +1,7 @@
+![Github banner2](https://github.com/Melody-Lisa/Melody-Lisa/assets/137832068/9305ce08-4b1a-48f0-a0f0-c5de5b2de913)
+
+<h1 align="center">Welcome to Melody-Lisa's Github!</h1>
+
 ### Hi there 👋
 
 <!--
