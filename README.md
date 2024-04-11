@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+Welcome to my GitHub repository! I'm Melody-Lisa, a passionate web developer with a diverse skill set and a drive for creating exceptional digital experiences. With a background in retail and the third sector, I've recently transitioned into the world of web development, where I've found my true calling.
+
 :incoming_envelope: **Contact Me**
 
 [![Gmail Badge](https://img.shields.io/badge/-melody.lisa1990@gmail.com-333333?style=for-the-badge&logo=Gmail&logoColor=white&style=plastic&logoWidth=20&labelColor=c14438&link=mailto:pavlo.myskov@gmail.com)](mailto:melody.lisa1990@gmail.com)
