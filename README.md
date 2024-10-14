@@ -59,7 +59,7 @@ Welcome to my GitHub repository! I'm Melody-Lisa, a passionate web developer wit
 <img src="https://img.shields.io/badge/Stripe-222222?style=for-the-badge&logo=Stripe&logoColor=white&style=plastic&logoWidth=20&labelColor=008CDD"
                             alt="Stripe Badge">
 
-## Future Implementations
+### Future Implementations
 
 
 <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=white&style=plastic&logoWidth=20&labelColor=61DAFB"
@@ -72,6 +72,19 @@ Welcome to my GitHub repository! I'm Melody-Lisa, a passionate web developer wit
                             alt="Unity Badge">
 <img src="https://img.shields.io/badge/Typescript-222222?style=for-the-badge&logo=typescript&logoColor=white&style=plastic&logoWidth=20&labelColor=3178C6"
                             alt="Typescript Badge">
+
+<h2 align='center'>&#x1f58b; Projects Highlights &#x1f58b;</h2>
+
+<table>
+  <tr>
+  <td><a href ="https://melody-lisa.github.io/into-the-woods/"><img src="https://github.com/user-attachments/assets/cc60acca-d234-4ceb-a558-c477129ba0cf" width="200px"></a></td>
+  <td>Into the Woods - an interactive javascript game. The site has been built using HTML5, CSS3 and Javascript for the Milestone 2 project for Code Institute's web development diploma.</td>
+  </tr>
+  <tr>
+    <td><a href="https://blissboost-079490cc3274.herokuapp.com"><img src="https://github.com/user-attachments/assets/dce01017-10f9-48da-8d1c-e2cf2dc9443f" width="200px"></a></td>
+  <td>BlissBoost - a social media site aimed towards spreading positivity in all aspects of life. The site has been built using HTML5, CSS3 with materialize templating, MongoDB and Python with Jinja templating for the Milestone 3 backend development project for Code Institute's web development diploma.</td>
+  </tr>
+</table>
 
 
 <!--
