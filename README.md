@@ -77,6 +77,13 @@ Welcome to my GitHub repository! I'm Melody-Lisa, a passionate web developer wit
 
 <table>
   <tr>
+    <td><img src="https://github.com/user-attachments/assets/085742b5-e493-4ad6-9d6e-621559be0b20" width="200px"></td>
+  <td> <h4 align='center'>&#128679; Under Construction &#128679;</h4>
+
+    
+  Lucky Darts Counter - An interactive darts counter with various game options. Built with HTML, CSS and Javascript</td>
+  </tr>
+  <tr>
   <td><a href ="https://melody-lisa.github.io/into-the-woods/"><img src="https://github.com/user-attachments/assets/cc60acca-d234-4ceb-a558-c477129ba0cf" width="200px"></a></td>
   <td>Into the Woods - an interactive javascript game. The site has been built using HTML5, CSS3 and Javascript for the Milestone 2 project for Code Institute's web development diploma.</td>
   </tr>
